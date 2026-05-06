@@ -1,5 +1,17 @@
 # Omni RAG Agent Studio
 
+<!-- portfolio-seo:start -->
+![Stars](https://img.shields.io/github/stars/Crynge/omni-rag-agent-studio?style=flat-square) ![License](https://img.shields.io/github/license/Crynge/omni-rag-agent-studio?style=flat-square) ![Status](https://img.shields.io/badge/status-active-blue?style=flat-square)
+
+![Social Preview](docs/social-preview.png)
+
+> Multi-vertical RAG chatbot and agent studio with FastAPI backend, React frontend, and broad business taxonomy support.
+
+**GitHub Search Keywords:** rag chatbot, agent studio, fastapi rag, react ai chatbot, retrieval augmented generation, multi vertical chatbot, business ai assistant
+
+<!-- portfolio-seo:end -->
+
+
 Omni RAG Agent Studio is a standalone starter repo for building a business-grade RAG AI chatbot with an agentic orchestration layer. It combines a Python/FastAPI backend, a Tailwind-powered JavaScript frontend, a 300+ vertical business taxonomy, document ingestion, hybrid retrieval, memory-aware chat, and structured business actions such as lead capture and escalation.
 
 ## Why this repo exists
