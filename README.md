@@ -11,6 +11,15 @@
 
 <!-- portfolio-seo:end -->
 
+<!-- portfolio-links:start -->
+<div align="center">
+
+[Documentation](docs) &middot; [Contributing](CONTRIBUTING.md) &middot; [Security](SECURITY.md) &middot; [Authors](AUTHORS.md) &middot; [Workflows](.github/workflows)
+
+</div>
+<!-- portfolio-links:end -->
+
+
 
 Omni RAG Agent Studio is a standalone starter repo for building a business-grade RAG AI chatbot with an agentic orchestration layer. It combines a Python/FastAPI backend, a Tailwind-powered JavaScript frontend, a 300+ vertical business taxonomy, document ingestion, hybrid retrieval, memory-aware chat, and structured business actions such as lead capture and escalation.
 
